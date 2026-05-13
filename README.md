@@ -1,6 +1,12 @@
 # Portal Corporativo WebSolutions
 
-Proyecto empresarial desarrollado para la asignatura Programación Web utilizando Git y GitHub.
+Proyecto desarrollado para la asignatura Programación Web utilizando Git y GitHub.
+
+---
+
+## Descripción
+
+Este proyecto consiste en el desarrollo de un portal corporativo básico aplicando buenas prácticas de control de versiones mediante Git y GitHub.
 
 ---
 
@@ -16,10 +22,12 @@ Proyecto empresarial desarrollado para la asignatura Programación Web utilizand
 
 ## Funcionalidades
 
-- Página principal corporativa
+- Página corporativa
 - Sección de servicios
-- Diseño responsivo
-- Control de versiones empresarial
+- Manejo de ramas
+- Resolución de conflictos
+- Uso de stash
+- Control de versiones
 
 ---
 
